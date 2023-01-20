@@ -29,7 +29,7 @@ write your own code inside the index.html to create the calculator on website.
 
 Publish the website in the given URL.
 ## PROGRAM :
-
+```
 <!DOCTYPE html>
 <html>
     <head>
@@ -99,6 +99,7 @@ Publish the website in the given URL.
         </form>
     </body>
 </html>
+```
 
 ## OUTPUT:
 
@@ -114,7 +115,7 @@ Publish the website in the given URL.
 
 #### Addition after equal:
 
-![Addition_after_pressing_Equal](./img/cal2.png)
+![Addition_after_pressing_Equal](./image/cal2.png)
 
 ## Result:
 
